@@ -39,9 +39,9 @@ The dataset is based on a sample retail store, providing details about orders, s
 - Dashboard Design
 - Data Analysis & Insight Generation
 
-##![project 3](https://github.com/user-attachments/assets/fbc28c86-9e9c-4eb8-8367-467376627fe2)
-![project2](https://github.com/user-attachments/assets/ff2712a1-fbf0-400e-a8b3-a0ce2d3227e6)
-![project 1](https://github.com/user-attachments/assets/50592198-2088-4d1c-8fa1-017d4782e55d)
- Conclusion
+![project 1](https://github.com/user-attachments/assets/6dba2cfc-0e37-40ec-a380-15e4d00379fa)
+![project 4](https://github.com/user-attachments/assets/2d563336-a443-4f58-945e-43194c900f8b)
+![project 5](https://github.com/user-attachments/assets/aee3e1cb-d37f-4eb5-a1c9-9c6e979fcd97)
+
 
 This Power BI dashboard provides a comprehensive overview of sales performance, profitability, and discount trends across different categories and regions. By using interactive visuals and KPIs, key business insights can be quickly identified.
